@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-08-23T06:25:39.438408",
+  "total_violations": 0,
+  "violations": [],
+  "config": {
+    "frame_skip": 2,
+    "confidence_threshold": 0.1,
+    "red_light_start_time": 2,
+    "line_y_threshold": 280,
+    "flash_duration_frames": 30,
+    "output_resolution": [
+      640,
+      480
+    ],
+    "violation_save_path": "test_violations_final"
+  }
+}
